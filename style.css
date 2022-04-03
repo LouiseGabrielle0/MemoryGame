@@ -1,0 +1,24 @@
+#grid {
+  width: 500px;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 20%;
+  padding-top: 2%;
+}
+
+body {
+  background: rgba(92, 19, 19, 0.432);
+}
+
+h3 {
+display: flex;
+justify-content: center;
+font-size: 45px;
+padding-right: 42%;
+padding-top: 2%;
+
+}
+
+
+
